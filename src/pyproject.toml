@@ -11,27 +11,26 @@ authors = [
 ]
 
 dependencies = [
-    "click==7.1.1",
-    "networkx==2.5",
-    "pynput==1.7.7",
-    "numpy==2.2.6",
-    "spatialmath-python>=1.1.5",
-    "spatialgeometry>=1.0.0",
+    "click",
+    "networkx",
+    "pynput",
+    "numpy",
+    "spatialmath-python",
+    "spatialgeometry",
     "scipy",
     "ansitable",
     "progress",
     "typing_extensions",
     "tqdm",
     "feetech-servo-sdk",
-    "mujoco==3.2.5",
+    "mujoco",
     "requests",
     "idna",
     "certifi",
     "pytz",
     "rerun-sdk",
-    "open3d==0.19.0",
-    "scikit-image==0.25.2",
-    "pyvista==0.46.4"
+    "scikit-image",
+    "pyvista"
 ]
 
 license = { file = "LICENSE" }
